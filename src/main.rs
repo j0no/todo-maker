@@ -32,7 +32,7 @@ fn write_file(filename: &String, content: String) {
 fn format_header(date_string: String) -> String {
     format!(
         "# Todo - {}
-- [ ] sample",
+- [ ] sample todo",
         date_string
     )
 }
