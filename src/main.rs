@@ -32,7 +32,14 @@ fn write_file(filename: &String, content: String) {
 fn format_header(date_string: String) -> String {
     format!(
         "# Todo - {}
-- [ ] sample todo",
+- [ ] sample todo
+
+# Calorie Table
+
+| Food Item               | Amount | Calories per unit | Calories      |
+| ----------------------- | ------ | ----------------- | ------------- |
+| water                   | 0      | 0                 | 0 calories    |
+",
         date_string
     )
 }
