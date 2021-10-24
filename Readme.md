@@ -10,7 +10,7 @@ Yes. This literally only makes writes a file to `~/Todo`. I like to use [typora]
 
 I have [xbar](https://github.com/matryer/xbar) setup to run a [todo script](xbar_script/todo.sh) that calls on this tool.
 
-![screenshot](https://raw.githubusercontent.com/j0no/postgres-tool/main/.github/xbar_example.png)
+![screenshot](https://raw.githubusercontent.com/j0no/todo-maker/main/.github/xbar_example.png)
 
  # Install
 
